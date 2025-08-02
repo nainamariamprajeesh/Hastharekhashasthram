@@ -81,14 +81,13 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](1st page.png)
-*Add caption explaining what this shows*
 
-![Screenshot2](2nd page.png)
-*Add caption explaining what this shows*
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/456e2f31-04f7-4cb1-85c6-c2a3246dc4df" />
 
-![Screenshot3](3rd page.png)
-*Add caption explaining what this shows*
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/cc3a642e-6ba1-4447-9d5c-fc4bdd23ebf7" />
+
+
+<img width="960" height="504" alt="image" src="https://github.com/user-attachments/assets/17ae6a4f-808c-4ca8-bb4f-93fba7bedda1" />
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
