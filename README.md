@@ -1,34 +1,68 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [HASTHAREKHASHASTHRAM] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [TAKA]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [NANDANA S NAIR] - [LBSITW]
+- Member 2: [NAINA MARIAM PRAJEESH] - [LBSITW]
 
 ### Project Description
-[2-3 lines about what your project does]
+[IT IS USELESS PROJECT WHERE THE WEBSITE DOES FAKE PALMISTRY,WHERE SOMEONE COULD UPLOAD THEIR PALM IMAGE AND THE WEBSITE WILL ROAST THEM.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[WE ARE REALLY CURIOUS ABOUT OUR TOMORROWS AND WE NEVER MOVES ON FROM OUR PAST]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[DON'T WORRY,TAKE IT EASY.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [HTML,JAVASCRIPT,CSS]
+- [No frameworks – Pure vanilla JS for speed & simplicity]
+- [NO libraries]
+- [Tools used
+Development Tools
+
+VS Code (or any code editor)
+
+Browser Dev Tools (Chrome/Firefox for debugging)
+
+Core Technologies
+
+HTML5 (for app structure)
+
+CSS3 (animations, styling)
+
+Vanilla JavaScript (no frameworks)
+
+Key Browser APIs
+
+Drag-and-Drop API (for image uploads)
+
+FileReader API (to preview images)
+
+Web Audio API (for sound effects)
+
+Assets
+
+Google Fonts (Poppins font)
+
+Custom Icons (e.g., fire.png, mystic-eye.png)
+
+Sound Effects (MP3 files for interactions)
+
+Design
+
+CSS Animations (@keyframes for spinners/transitions)
+
+Flexbox/Grid (layout)]
 
 For Hardware:
 - [List main components]
@@ -47,13 +81,13 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1](1st page.png)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2](2nd page.png)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3](3rd page.png)
 *Add caption explaining what this shows*
 
 # Diagrams
@@ -81,16 +115,16 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[WhatsApp Video 2025-08-02 at 05.09.00_74489787.mp4]
 *Explain what the video demonstrates*
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Nandana S Nair]: [Project idea and coding]
+- [Naina Mariam Prajeesh]: [Coding and debugging]
+- 
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
