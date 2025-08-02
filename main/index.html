@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mystic Palm Reader</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>🔮 HASTHAREKHASHASTHRAM🔮</h1>
+        
+        <!-- === UPLOAD SECTION === -->
+        <div id="dropZone">
+            <div id="loadingSpinner" class="spinner" style="display: none;"></div>
+            <p id="uploadText">Drag & drop or click to upload</p>
+            <input type="file" id="fileInput" accept="image/*" style="display: none;">
+        </div>
+        
+        <!-- === IMAGE PREVIEW === -->
+        <img id="previewImage" style="display: none;">
+        
+        <!-- === ANALYZE BUTTON === -->
+        <button id="analyzeBtn" disabled>ഈ കൈ ഒന്ന് നോക്കിക്കേ. 🔮</button>
+        
+        <!-- === RESULTS WILL APPEAR HERE === -->
+        <div id="results"></div>
+    </div>
+
+    <!-- === JAVASCRIPT LINK - MUST COME LAST === -->
+    <script src="script.js"></script>
+</body>
+</html>
